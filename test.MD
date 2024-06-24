@@ -55,7 +55,7 @@ Este proyecto tiene como objetivo evaluar la proficiencia en el desarrollo fulls
    - Archivos README en ambos repositorios detallando cómo ejecutar y desplegar las aplicaciones.
 
 3. **Tiempo de entrega**
-   - El tiempo máximo para completar la evaluación es de 24 horas a partir de las 8:00 Am del dia Lunes 24 de Junio de 2024. Así que la entrega debe ser antes de las 8:00 Am del dia Martes 25 de Junio de 2024 con el subject `Evaluación Técnica Fullstack - [Nombre del Candidato]`.
+   - El tiempo máximo para completar la evaluación es de 24 horas a partir de las 8:00 Am del dia Lunes 24 de Junio de 2024. Así que la entrega debe ser antes de las 8:00 Am del dia Martes 25 de Junio de 2024 con el subject `Evaluación Técnica Fullstack - [Nombre del Candidato]` al correo contacto@addiis.com.co con copia al correo nicolaspicon98@gmail.com.
 
 ## Criterios de Evaluación
 
@@ -78,4 +78,8 @@ Este proyecto tiene como objetivo evaluar la proficiencia en el desarrollo fulls
 5. **Documentación**
    - Calidad y claridad de la documentación proporcionada.
    - Facilidad para seguir las instrucciones y levantar el entorno localmente.
+
 6. **No se aceptarán preguntas de ningún tipo.**
+
+
+Mucha suerte!
