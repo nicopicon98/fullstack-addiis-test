@@ -24,10 +24,6 @@ Este proyecto tiene como objetivo evaluar la proficiencia en el desarrollo fulls
    - Sección para acceder a artículos, videos y guías sobre entrenamiento de perros.
    - Los administradores pueden gestionar estos recursos.
 
-5. **Dashboard**
-   - Los entrenadores deben tener un dashboard donde puedan ver un resumen del progreso de sus perros.
-   - Los administradores deben tener un dashboard con métricas generales de la aplicación.
-
 ## Requisitos Técnicos
 
 1. **Backend (Spring Boot)**
@@ -58,8 +54,8 @@ Este proyecto tiene como objetivo evaluar la proficiencia en el desarrollo fulls
    - Documentación del frontend explicando la estructura del proyecto y cómo se conectan con la API.
    - Archivos README en ambos repositorios detallando cómo ejecutar y desplegar las aplicaciones.
 
-3. **Video de Demostración**
-   - Un video corto (5-10 minutos) demostrando las funcionalidades principales de la aplicación.
+3. **Tiempo de entrega**
+   - El tiempo máximo para completar la evaluación es de 24 horas a partir de las 8:00 Am del dia Lunes 24 de Junio de 2024. Así que la entrega debe ser antes de las 8:00 Am del dia Martes 25 de Junio de 2024 con el subject `Evaluación Técnica Fullstack - [Nombre del Candidato]`.
 
 ## Criterios de Evaluación
 
@@ -82,3 +78,4 @@ Este proyecto tiene como objetivo evaluar la proficiencia en el desarrollo fulls
 5. **Documentación**
    - Calidad y claridad de la documentación proporcionada.
    - Facilidad para seguir las instrucciones y levantar el entorno localmente.
+6. **No se aceptarán preguntas de ningún tipo.**
